@@ -38,9 +38,6 @@
   // Set cursor blinking style
   "editor.cursorBlinking": "expand",
 
-  // Specify custom words for spell checking
-  "cSpell.userWords": ["Guna", "Palanivel"],
-
   // Enable automatic formatting on save
   "editor.formatOnSave": true,
 
@@ -55,17 +52,11 @@
   // Set the color theme for the workbench
   "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
 
-  // CodeGPT settings (example, replace with actual key and model)
-  "CodeGPT.apiKey": "CodeGPT Plus",
-  "CodeGPT.model": "CodeGPT Plus",
-
   // Set the initial zoom level for the window
   "window.zoomLevel": -1,
 
   // Enable auto-save after a delay
   "files.autoSave": "afterDelay",
-
-  // Added Editor Formatting Settings from Second Set
 
   // Enable formatting on paste
   "editor.formatOnPaste": true,
@@ -79,8 +70,6 @@
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-
-  // Added GitHub Copilot Settings from Second Set
 
   // Enable GitHub Copilot for various file types
   "github.copilot.enable": {
