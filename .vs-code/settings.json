@@ -21,10 +21,7 @@
   "editor.cursorStyle": "line",
   "editor.cursorWidth": 3,
   "editor.cursorBlinking": "expand",
-  "editor.cursorSmoothCaretAnimation": true,
-
-  // Font and Formatting
-  "editor.fontSize": 16,
+  "editor.cursorSmoothCaretAnimation": "on",
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
 
@@ -34,13 +31,14 @@
   // Apply Settings to All Profiles
   "workbench.settings.applyToAllProfiles": [
     "editor.fontFamily",
-    "editor.fontSize",
     "editor.cursorStyle",
     "editor.cursorBlinking",
     "editor.cursorSmoothCaretAnimation",
     "editor.formatOnSave",
     "files.autoSave",
-    "editor.defaultFormatter"
+    "editor.defaultFormatter",
+    "workbench.editorLargeFileConfirmation",
+    "editor.fontSize"
   ],
 
   // HTML Formatter
@@ -59,7 +57,7 @@
   },
 
   // Color Theme
-  "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
+  "workbench.colorTheme": "One Dark Pro Darker",
 
   // CodeGPT Settings
   "CodeGPT.apiKey": "CodeGPT Plus",
@@ -79,5 +77,10 @@
   // Sticky Scroll Settings
   "notebook.stickyScroll.enabled": true,
   "editor.stickyScroll.enabled": true,
-  "terminal.integrated.stickyScroll.enabled": true
+  "terminal.integrated.stickyScroll.enabled": true,
+  "editor.largeFileOptimizations": false,
+  "workbench.editorLargeFileConfirmation": 1000000000,
+  "liveServer.settings.donotVerifyTags": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.fontSize": 20
 }
