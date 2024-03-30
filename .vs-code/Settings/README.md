@@ -73,27 +73,6 @@ This README provides an overview of the Visual Studio Code settings and extensio
 - `typescript.updateImportsOnFileMove.enabled`: `"always"` - Automatically updates import statements when moving TypeScript files, ensuring accurate import paths in your web development projects.
 - `editor.fontSize`: `20` - Sets the font size in the editor to 20, adjusting the text size for better readability or accessibility.
 
-## Extension Recommendations
-
-In addition to the settings, the following extensions are included to further enhance the web development experience in Visual Studio Code:
-
-- **Angular Language Service**: Provides intelligent code completion, error checking, and other language services for Angular applications.
-- **ESLint**: A popular linting tool that helps identify and fix problems in JavaScript/TypeScript code, improving code quality and maintainability.
-- **ES7+ React/Redux/React-Native snippets**: Offers code snippets and integration with Prettier for React, React Native, and Redux development, streamlining the coding process.
-- **GitLens**: Enhances the Git experience within Visual Studio Code, providing visual annotations, repository exploration, and powerful comparison tools for better version control management.
-- **Auto Rename Tag**: Automatically renames paired HTML/XML tags, helping maintain consistency and reducing errors in web development projects.
-- **GitHub Codespaces**: Provides an instant, cloud-based development environment, allowing you to work on your web development projects from anywhere.
-- **GitHub Copilot**: An AI pair programmer that can assist with writing code, suggesting completions, and providing explanations, potentially boosting productivity.
-- **GitHub Copilot Chat**: Adds AI-powered chat features to GitHub Copilot, enabling better communication and understanding of code in collaborative web development projects.
-- **GitHub Theme**: Applies the GitHub theme to Visual Studio Code, providing a consistent look and feel with the GitHub web interface.
-- **GitHub Actions**: Enables setting up and managing GitHub Actions workflows directly from Visual Studio Code, useful for automating build, test, and deployment processes for web applications hosted on GitHub.
-- **MongoDB for VS Code**: Integrates MongoDB, a popular NoSQL database, into Visual Studio Code, enabling seamless integration with web applications that use MongoDB as the backend database.
-- **Docker**: Facilitates creating, managing, and debugging containerized applications, which is essential for deploying web applications in containers.
-- **Microsoft Edge Tools for VS Code**: Integrates Microsoft Edge's developer tools into Visual Studio Code, allowing you to inspect and debug your web applications directly from the editor.
-- **Live Preview** and **Live Server**: Hosts local development servers for previewing web pages with live reloading, streamlining the development and testing process for web applications.
-- **Material Icon Theme**: Applies the Material Design icon theme to Visual Studio Code, enhancing the visual appeal and consistency of the editor.
-- **Code Spell Checker**: Helps catch spelling mistakes in your source code, improving code readability and maintainability.
-
 By leveraging these settings you can create a highly productive and efficient web development environment within Visual Studio Code. From code formatting and linting to version control, debugging, and deployment automation, these configurations and tools aim to streamline your workflow and enhance the overall development experience.
 
 Happy coding!
