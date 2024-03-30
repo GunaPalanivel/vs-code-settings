@@ -1,0 +1,218 @@
+[
+  {
+    "identifier": {
+      "id": "angular.ng-template",
+      "uuid": "a92d457e-6f3f-4167-8087-1a54e1b6e00e"
+    },
+    // Provides intelligent code completion, error checking, and other language services for Angular applications.
+    "displayName": "Angular Language Service"
+  },
+  {
+    "identifier": {
+      "id": "dbaeumer.vscode-eslint",
+      "uuid": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a"
+    },
+    // A popular linting tool that helps identify and fix problems in JavaScript/TypeScript code, improving code quality and maintainability.
+    "displayName": "ESLint"
+  },
+  {
+    "identifier": {
+      "id": "docsmsft.docs-images",
+      "uuid": "531c9642-a2f9-4dae-a784-67d25324502e"
+    },
+    // Provides a rich editing experience for images in Markdown files.
+    "displayName": "learn-images"
+  },
+  {
+    "identifier": {
+      "id": "dsznajder.es7-react-js-snippets",
+      "uuid": "19804510-b475-4dae-b0f7-6ca08fd1af0c"
+    },
+    // A collection of snippets for ES7+ React/Redux/React-Native development.
+    "displayName": "ES7+ React/Redux/React-Native snippets",
+    "version": "4.4.3"
+  },
+  {
+    "identifier": {
+      "id": "eamodio.gitlens",
+      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
+    },
+    // Supercharges the Git capabilities built into Visual Studio Code.
+    "displayName": "GitLens — Git supercharged",
+    "version": "14.9.0"
+  },
+  {
+    "identifier": {
+      "id": "esbenp.prettier-vscode",
+      "uuid": "96fa4707-6983-4489-b7c5-d5ffdfdcce90"
+    },
+    // Code formatter using Prettier.
+    "displayName": "Prettier - Code formatter",
+    "version": "10.4.0"
+  },
+  {
+    "identifier": {
+      "id": "formulahendry.auto-rename-tag",
+      "uuid": "6e440e71-8ed9-4f25-bb78-4b13096b8a03"
+    },
+    // Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
+    "displayName": "Auto Rename Tag"
+  },
+  {
+    "identifier": {
+      "id": "github.codespaces",
+      "uuid": "4023d3e5-c840-4cdd-8b54-51c77548aa3f"
+    },
+    // Provides a seamless experience for creating and working with Codespaces.
+    "displayName": "GitHub Codespaces"
+  },
+  {
+    "identifier": {
+      "id": "github.copilot",
+      "uuid": "23c4aeee-f844-43cd-b53e-1113e483f1a6"
+    },
+    // AI pair programmer that helps you write code faster.
+    "displayName": "GitHub Copilot"
+  },
+  {
+    "identifier": {
+      "id": "github.copilot-chat",
+      "uuid": "7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f"
+    },
+    // Chat with GitHub Copilot.
+    "displayName": "GitHub Copilot Chat"
+  },
+  {
+    "identifier": {
+      "id": "github.github-vscode-theme",
+      "uuid": "7328a705-91fc-49e6-8293-da6f112e482d"
+    },
+    // GitHub theme for Visual Studio Code.
+    "displayName": "GitHub Theme"
+  },
+  {
+    "identifier": {
+      "id": "github.vscode-github-actions",
+      "uuid": "04f49bfc-8330-4eee-8237-ea938fb755ef"
+    },
+    // Provides syntax highlighting and autocompletion for GitHub Actions workflow files.
+    "displayName": "GitHub Actions",
+    "version": "0.26.2"
+  },
+  {
+    "identifier": {
+      "id": "mechatroner.rainbow-csv",
+      "uuid": "3792588c-3d35-442d-91ea-fe6a755e8155"
+    },
+    // Highlight CSV and TSV files in different colors.
+    "displayName": "Rainbow CSV"
+  },
+  {
+    "identifier": {
+      "id": "mongodb.mongodb-vscode",
+      "uuid": "4b6540da-bfa3-4b88-b9e3-df8f2d161124"
+    },
+    // MongoDB extension for Visual Studio Code.
+    "displayName": "MongoDB for VS Code"
+  },
+  {
+    "identifier": {
+      "id": "ms-azuretools.vscode-docker",
+      "uuid": "0479fc1c-3d67-49f9-b087-fb9069afe48f"
+    },
+    // Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
+    "displayName": "Docker"
+  },
+  {
+    "identifier": {
+      "id": "ms-edgedevtools.vscode-edge-devtools",
+      "uuid": "11cb120c-f665-45bc-a21e-6de8a5685850"
+    },
+    // Adds the Microsoft Edge DevTools to Visual Studio Code.
+    "displayName": "Microsoft Edge Tools for VS Code"
+  },
+  {
+    "identifier": {
+      "id": "ms-python.debugpy",
+      "uuid": "4bd5d2c9-9d65-401a-b0b2-7498d9f17615"
+    },
+    // Python debugger for Visual Studio Code.
+    "displayName": "Python Debugger"
+  },
+  {
+    "identifier": {
+      "id": "ms-python.python",
+      "uuid": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5"
+    },
+    // Provides Python language support for Visual Studio Code.
+    "displayName": "Python",
+    "version": "2024.2.1"
+  },
+  {
+    "identifier": {
+      "id": "ms-python.vscode-pylance",
+      "uuid": "364d2426-116a-433a-a5d8-a5098dc3afbd"
+    },
+    // Provides Python language support using Pylance.
+    "displayName": "Pylance",
+    "version": "2024.3.2"
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode-remote.remote-wsl",
+      "uuid": "f0c5397b-d357-4197-99f0-cb4202f22818"
+    },
+    // Provides a seamless experience for developing in the Windows Subsystem for Linux (WSL).
+    "displayName": "WSL",
+    "version": "0.86.0"
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode.live-server",
+      "uuid": "4eae7368-ec63-429d-8449-57a7df5e2117"
+    },
+    // Launch a development local Server with live reload feature for static & dynamic pages.
+    "displayName": "Live Preview"
+  },
+  {
+    "identifier": {
+      "id": "pkief.material-icon-theme",
+      "uuid": "5db78037-f674-459f-a236-db622c427c5b"
+    },
+    // Material Design Icons for Visual Studio Code.
+    "displayName": "Material Icon Theme",
+    "version": "4.34.0"
+  },
+  {
+    "identifier": {
+      "id": "ritwickdey.liveserver",
+      "uuid": "b63c44fd-0457-4696-99e9-dbfdf70d77de"
+    },
+    // Launch a development local Server with live reload feature for static & dynamic pages.
+    "displayName": "Live Server"
+  },
+  {
+    "identifier": {
+      "id": "streetsidesoftware.code-spell-checker",
+      "uuid": "f6dbd813-b0a0-42c1-90ea-10dde9d925a7"
+    },
+    // Helps catch spelling mistakes in your source code, improving code readability and maintainability.
+    "displayName": "Code Spell Checker"
+  },
+  {
+    "identifier": {
+      "id": "tomoki1207.pdf",
+      "uuid": "4386e6f6-ec10-4463-9d23-c24278718947"
+    },
+    // Provides a PDF viewer for Visual Studio Code.
+    "displayName": "vscode-pdf"
+  },
+  {
+    "identifier": {
+      "id": "zhuangtongfa.material-theme",
+      "uuid": "26a529c9-2654-4b95-a63f-02f6a52429e6"
+    },
+    // Material Theme for Visual Studio Code.
+    "displayName": "One Dark Pro"
+  }
+]

@@ -1,0 +1,91 @@
+{
+  "settings": {
+    // Workspace Trust Settings
+    "security.workspace.trust.untrustedFiles": "open",
+
+    // Editor Associations
+    "workbench.editorAssociations": {
+      "*.7z": "default"
+    },
+
+    // Git Autofetch
+    "git.autofetch": true,
+
+    // Live Server Settings
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+
+    // Icon Theme
+    "workbench.iconTheme": "material-icon-theme",
+
+    // Cursor Settings
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 3,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+
+    // Default Formatter
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+    // Apply Settings to All Profiles
+    "workbench.settings.applyToAllProfiles": [
+      "editor.fontFamily",
+      "editor.cursorStyle",
+      "editor.cursorBlinking",
+      "editor.cursorSmoothCaretAnimation",
+      "editor.formatOnSave",
+      "files.autoSave",
+      "editor.defaultFormatter",
+      "workbench.editorLargeFileConfirmation",
+      "editor.fontSize"
+    ],
+
+    // HTML Formatter
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+    },
+
+    // CSS Formatter
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    // JavaScript Formatter
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    // Spell Checking
+    "cSpell.userWords": ["Guna", "pagelayout", "Palanivel"],
+
+    // Color Theme
+    "workbench.colorTheme": "One Dark Pro Darker",
+
+    // CodeGPT Settings
+    "CodeGPT.apiKey": "CodeGPT Plus",
+    "CodeGPT.model": "CodeGPT Plus",
+
+    // Window Settings
+    "window.zoomLevel": -1,
+
+    // GitHub Copilot Settings
+    "github.copilot.enable": {
+      "*": true,
+      "plaintext": false,
+      "markdown": true,
+      "scminput": false
+    },
+
+    // Sticky Scroll Settings
+    "notebook.stickyScroll.enabled": true,
+    "editor.stickyScroll.enabled": true,
+    "terminal.integrated.stickyScroll.enabled": true,
+    "editor.largeFileOptimizations": false,
+    "workbench.editorLargeFileConfirmation": 1000000000,
+    "liveServer.settings.donotVerifyTags": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.fontSize": 20
+  }
+}
